@@ -15,7 +15,7 @@
 ---
 
 ## **[V1.0.1]**
-<img width="1056" height="356" alt="image" src="https://github.com/user-attachments/assets/f8c69c57-e8b4-4728-9bef-0122c8d5b499" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/f8c69c57-e8b4-4728-9bef-0122c8d5b499" />
 
 - 안드로이드 레이아웃 깨짐 현상 수정  
 - 레이아웃을 동적으로 조정하도록 개선
@@ -26,7 +26,7 @@
 ---
 
 ## **[V1.0.2]**
-<img width="1314" height="540" alt="image" src="https://github.com/user-attachments/assets/ddebdc54-0349-41d1-b9f8-a93e221cb8e0" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/ddebdc54-0349-41d1-b9f8-a93e221cb8e0" />
 
 - 1.0.1에서 발생한 버그 수정  
 - 이의제기 버튼 디자인 추가  
@@ -48,7 +48,7 @@
 ---
 
 ## **[V1.0.4]**
-<img width="1444" height="400" alt="image" src="https://github.com/user-attachments/assets/ea1377e8-24ed-48ad-a5b9-bf1cfcd7ab63" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/ea1377e8-24ed-48ad-a5b9-bf1cfcd7ab63" />
 
 - 피드백 반영한 UI 개선  
 - 아이패드 화면 비율 지원 추가  
@@ -60,7 +60,7 @@
 ---
 
 ## **[V1.0.5]**
-<img width="1236" height="148" alt="image" src="https://github.com/user-attachments/assets/2e26dd76-af9e-44ea-910e-04987382079a" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/2e26dd76-af9e-44ea-910e-04987382079a" />
 
 - iPhone 빌드용 버전 업데이트
 
@@ -70,7 +70,7 @@
 ---
 
 ## **[V 1.1.0] — 첫 대규모 업데이트**
-<img width="1674" height="766" alt="image" src="https://github.com/user-attachments/assets/83ed2d48-0752-4384-bcff-f9956a110508" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/83ed2d48-0752-4384-bcff-f9956a110508" />
 
 ### 🔍 가게 상세 모달 고도화
 - 음식 분류 모델(HuggingFace)로 가장 ‘돈가스 같은 사진’을 표지로 자동 선택  
@@ -96,7 +96,7 @@
 ---
 
 ## **[ V 1.1.2 ] — 인증/보안 시스템 대규모 개선**
-<img width="1138" height="278" alt="image" src="https://github.com/user-attachments/assets/d17be0c7-dedf-47ba-9e4b-ec137ff284b6" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/d17be0c7-dedf-47ba-9e4b-ec137ff284b6" />
 
 ### 🔒 일반 이용자 Session Token 인증 도입
 - 기존 UUID 기반 단순 인증 구조의 보안 문제 해결  
@@ -128,7 +128,7 @@
 ---
 
 ## **[ V 1.2.0 ] — 두 번째 대규모 업데이트**
-<img width="1336" height="856" alt="image" src="https://github.com/user-attachments/assets/bfc774d8-84ba-42a8-9da7-d81c5a60569a" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/bfc774d8-84ba-42a8-9da7-d81c5a60569a" />
 
 - 유저 참여형 태그 시스템 도입  
 - 태그 개수 기반 ‘열혈 돈가스 러버 TOP 3’ 선정 기능  
