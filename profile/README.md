@@ -6,3 +6,139 @@
 🍎 **앱스토어 출시 완료**: [바로 설치](https://apps.apple.com/kr/app/%EB%8F%88%EA%B0%80%EC%8A%A4-%EC%A7%80%EB%8F%84/id6755211452)
 
 📱 **플레이스토어 심사 대기중**: 정식 출시 전, 비공개 베타테스트 진행중입니다. 혹시라도 베타테스트 참여 원하시는분은 저에게 메일 남겨주세요!
+
+
+<br></br>
+<details>
+  <summary>📝 패치노트 펼치보기</summary>
+
+---
+
+## **[V1.0.1]**
+<img width="1056" height="356" alt="image" src="https://github.com/user-attachments/assets/f8c69c57-e8b4-4728-9bef-0122c8d5b499" />
+
+- 안드로이드 레이아웃 깨짐 현상 수정  
+- 레이아웃을 동적으로 조정하도록 개선
+
+<!-- 여기에 이미지 넣기 -->
+
+
+---
+
+## **[V1.0.2]**
+<img width="1314" height="540" alt="image" src="https://github.com/user-attachments/assets/ddebdc54-0349-41d1-b9f8-a93e221cb8e0" />
+
+- 1.0.1에서 발생한 버그 수정  
+- 이의제기 버튼 디자인 추가  
+- 즐겨찾기 등록 시 토스트 알림 추가
+
+<!-- 이미지 -->
+
+
+---
+
+## **[V1.0.3]**
+
+- iOS 전용 앱 로고 적용 → 더 크게 보이게 조정  
+- 심사 반려됨 → 아이패드 스크린샷 불일치 문제
+
+<!-- 이미지 -->
+
+
+---
+
+## **[V1.0.4]**
+<img width="1444" height="400" alt="image" src="https://github.com/user-attachments/assets/ea1377e8-24ed-48ad-a5b9-bf1cfcd7ab63" />
+
+- 피드백 반영한 UI 개선  
+- 아이패드 화면 비율 지원 추가  
+- 다음 작업 예정: iPhone 위치 권한 안내 팝업 미출력 문제
+
+<!-- 이미지 -->
+
+
+---
+
+## **[V1.0.5]**
+<img width="1236" height="148" alt="image" src="https://github.com/user-attachments/assets/2e26dd76-af9e-44ea-910e-04987382079a" />
+
+- iPhone 빌드용 버전 업데이트
+
+<!-- 이미지 -->
+
+
+---
+
+## **[V 1.1.0] — 첫 대규모 업데이트**
+<img width="1674" height="766" alt="image" src="https://github.com/user-attachments/assets/83ed2d48-0752-4384-bcff-f9956a110508" />
+
+### 🔍 가게 상세 모달 고도화
+- 음식 분류 모델(HuggingFace)로 가장 ‘돈가스 같은 사진’을 표지로 자동 선택  
+- 사진 3장 갤러리 제공 (좌우 스와이프 가능)  
+- 리뷰를 조합하여 가게 설명 자동 생성
+
+### ⭐ 나만의 즐겨찾기 돈가스 지도
+- 서울 전체 지도에서 내가 즐겨찾기한 가게만 보여주는 개인 지도 추가
+
+### 📢 공지 기능 추가
+- OX 투표형 공지 + 일반 공지 두 가지 형태  
+- 메시지 탭 상단에서 확인 가능  
+- 새 공지가 오면 메시지 탭에 알림 표시 (Async Storage 기반)
+
+### 🔧 그 외 개선
+- 바텀시트 상한선 높임 + 중간 지점 추가  
+- 이의제기 항목 확장: 잘못된 사진/설명 문의 가능  
+- 즐겨찾기 등록 시 모달 제거 → 즉시 등록 / 삭제 시에는 모달 유지
+
+<!-- 이미지 -->
+
+
+---
+
+## **[ V 1.1.2 ] — 인증/보안 시스템 대규모 개선**
+<img width="1138" height="278" alt="image" src="https://github.com/user-attachments/assets/d17be0c7-dedf-47ba-9e4b-ec137ff284b6" />
+
+### 🔒 일반 이용자 Session Token 인증 도입
+- 기존 UUID 기반 단순 인증 구조의 보안 문제 해결  
+- Session Token 기반으로 요청 인증하도록 전체 리팩토링  
+- URL에 userid 쓰던 방식 폐기 → 세션 토큰에서 userId 추출  
+- Session Token은 기기 Async Storage 저장  
+- 서버는 Token Hash 보관  
+- 자기 정보만 접근 가능하도록 접근 제어 확립
+
+### 🔄 점진적 마이그레이션 전략
+- 기존 유저도 문제가 없도록 UUID 기반 로그인과 Session 기반 인증 공존  
+- 추후 UUID 레거시 제거 예정
+
+### 🛠 관리자 페이지 JWT 인증
+- 관리자 페이지는 JWT 기반으로 강화  
+- 관리자 로그인 → JWT 발급  
+- 관리자용 API는 JWT 없으면 접근 불가  
+- 관리자 PW는 Hash 저장  
+- 추후 관리자 전용 백오피스의 기반 기능
+
+### 🗺 기타
+- 카카오맵 REST API로 “가게 자세히 보기” 기능 추가  
+- 문의 삭제 기능 추가  
+- 관리자 페이지 관련 API 개발
+
+<!-- 이미지 -->
+
+
+---
+
+## **[ V 1.2.0 ] — 두 번째 대규모 업데이트**
+<img width="1336" height="856" alt="image" src="https://github.com/user-attachments/assets/bfc774d8-84ba-42a8-9da7-d81c5a60569a" />
+
+- 유저 참여형 태그 시스템 도입  
+- 태그 개수 기반 ‘열혈 돈가스 러버 TOP 3’ 선정 기능  
+- 가게 상세 모달에 유저 태그 표시  
+- 회원 탈퇴 시 자동 재시작 → 직접 재실행 안내로 변경  
+- 서버 부하 최적화 (캐싱 + 병렬 처리)
+
+<!-- 이미지 -->
+
+
+---
+
+</details>
