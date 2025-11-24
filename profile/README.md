@@ -29,7 +29,7 @@
 
 아직 많이 부족한 앱이니 피드백은 언제나 환영입니다! 
 
-**돈가스 지도의 완성을 도와주세요!!**
+**돈가스 지도의 완성을 도와주세요...!!**
 
 | Category | Stack |
 |---------|-------|
@@ -47,9 +47,8 @@
 
 
 <details>
-  <summary>📝 패치노트 펼치보기</summary>
+  <summary>📝 패치노트 펼쳐보기</summary>
 
----
 
 ## **[V1.0.1]**
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/f8c69c57-e8b4-4728-9bef-0122c8d5b499" />
