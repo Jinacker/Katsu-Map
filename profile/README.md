@@ -7,16 +7,45 @@
 
 📱 **플레이스토어 심사 대기중**: 정식 출시 전, 비공개 베타테스트 진행중입니다. 혹시라도 베타테스트 참여 원하시는분은 저에게 메일 남겨주세요!
 
+<br>
+
+### 🍽 돈가스 지도 – 차트인 감사 인사
+<p>
+  <img src="https://github.com/user-attachments/assets/9e25e7fb-6719-4c21-a072-ab3d45615b4a" width="200" />
+  <img src="https://github.com/user-attachments/assets/e55b7f26-9c19-439c-9da5-e9103b7eb6cc" width="450" />
+</p>
+
+<p>
+  🙇‍♂️ <b>돈가스 러버분들 덕분에 앱스토어 차트인했습니다!</b><br>
+  앞으로도 더 맛있는 업데이트로 보답하겠습니다. 감사합니다!
+</p>
+
+
+---
+
 ## 🚀 Tech Stack
+
+돈가스를 너무 사랑하는 대학생이 1인 개발한 앱입니다.
+
+아직 많이 부족한 앱이니 피드백은 언제나 환영입니다! 
+
+**돈가스 지도의 완성을 도와주세요!!**
 
 | Category | Stack |
 |---------|-------|
 | **Backend** | <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> |
 | **Frontend** | <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
-| **Infra** | <img src="https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> |
-| **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> |
+| **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
 | **Crawling** | <img src="https://img.shields.io/badge/BeautifulSoup4-000000?style=for-the-badge&logo=python&logoColor=white" /> |
-<br>
+| **Map API** | <img src="https://img.shields.io/badge/Kakao_Map_API-FFCD00?style=for-the-badge&logo=kakao&logoColor=000000" /> |
+
+
+---
+
+## 📝 Patch Note
+
+
 <details>
   <summary>📝 패치노트 펼치보기</summary>
 
