@@ -7,8 +7,16 @@
 
 📱 **플레이스토어 심사 대기중**: 정식 출시 전, 비공개 베타테스트 진행중입니다. 혹시라도 베타테스트 참여 원하시는분은 저에게 메일 남겨주세요!
 
+## 🚀 Tech Stack
 
-<br></br>
+| Category | Stack |
+|---------|-------|
+| **Backend** | <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
+| **Infra** | <img src="https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> |
+| **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
+| **Crawling** | <img src="https://img.shields.io/badge/BeautifulSoup4-000000?style=for-the-badge&logo=python&logoColor=white" /> |
+<br>
 <details>
   <summary>📝 패치노트 펼치보기</summary>
 
@@ -48,7 +56,7 @@
 ---
 
 ## **[V1.0.4]**
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/ea1377e8-24ed-48ad-a5b9-bf1cfcd7ab63" />
+<img height="150" alt="image" src="https://github.com/user-attachments/assets/ea1377e8-24ed-48ad-a5b9-bf1cfcd7ab63" />
 
 - 피드백 반영한 UI 개선  
 - 아이패드 화면 비율 지원 추가  
@@ -60,7 +68,7 @@
 ---
 
 ## **[V1.0.5]**
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/2e26dd76-af9e-44ea-910e-04987382079a" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/2e26dd76-af9e-44ea-910e-04987382079a" />
 
 - iPhone 빌드용 버전 업데이트
 
@@ -70,7 +78,7 @@
 ---
 
 ## **[V 1.1.0] — 첫 대규모 업데이트**
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/83ed2d48-0752-4384-bcff-f9956a110508" />
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/83ed2d48-0752-4384-bcff-f9956a110508" />
 
 ### 🔍 가게 상세 모달 고도화
 - 음식 분류 모델(HuggingFace)로 가장 ‘돈가스 같은 사진’을 표지로 자동 선택  
@@ -96,7 +104,7 @@
 ---
 
 ## **[ V 1.1.2 ] — 인증/보안 시스템 대규모 개선**
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/d17be0c7-dedf-47ba-9e4b-ec137ff284b6" />
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/d17be0c7-dedf-47ba-9e4b-ec137ff284b6" />
 
 ### 🔒 일반 이용자 Session Token 인증 도입
 - 기존 UUID 기반 단순 인증 구조의 보안 문제 해결  
@@ -128,7 +136,7 @@
 ---
 
 ## **[ V 1.2.0 ] — 두 번째 대규모 업데이트**
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/bfc774d8-84ba-42a8-9da7-d81c5a60569a" />
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/bfc774d8-84ba-42a8-9da7-d81c5a60569a" />
 
 - 유저 참여형 태그 시스템 도입  
 - 태그 개수 기반 ‘열혈 돈가스 러버 TOP 3’ 선정 기능  
