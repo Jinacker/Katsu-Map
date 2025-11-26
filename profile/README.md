@@ -179,7 +179,7 @@
 
 
 ## **[ V 1.3.0 ] — 세 번째 대규모 업데이트**
-<img width="567" height="646" alt="스크린샷 2025-11-25 오후 11 05 02" src="https://github.com/user-attachments/assets/56512c06-96f8-431c-a1f7-b14424482fb0" />
+<img width="800" height="711" alt="image" src="https://github.com/user-attachments/assets/dd5f34bc-2ebf-4cb3-9f5c-d48dfac2b39c" />
 <img width="542" height="202" alt="스크린샷 2025-11-25 오후 11 05 33" src="https://github.com/user-attachments/assets/ba6a205c-8d84-408f-8e94-465ec1245939" />
 
 **검색 기능 추가**
