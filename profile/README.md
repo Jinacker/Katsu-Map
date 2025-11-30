@@ -199,6 +199,13 @@
 <!-- 이미지 -->
 
 
+---
+
+## **[ V 1.3.1 & V 1.3.2 ]**
+<img width="654" height="139" alt="스크린샷 2025-11-30 오후 4 59 39" src="https://github.com/user-attachments/assets/0c1ac5e0-bd0a-42a6-906e-11a2d0ecfbd0" />
+
+- 안드로이드 시스템 폰트 설정에 따라 레이아웃이 깨지는 문제 해결. => **allowFontScaling={false}**
+
 
 ---
 
