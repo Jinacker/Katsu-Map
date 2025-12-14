@@ -35,7 +35,7 @@
 |---------|-------|
 | **Backend** | <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> |
 | **Frontend** | <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
-| **Infrastructure** | <img src="https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> |
+| **Infra** | <img src="https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> |
 | **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
 | **Crawling** | <img src="https://img.shields.io/badge/BeautifulSoup4-000000?style=for-the-badge&logo=python&logoColor=white" /> |
 | **Map API** | <img src="https://img.shields.io/badge/Kakao_Map_API-FFCD00?style=for-the-badge&logo=kakao&logoColor=000000" /> |
