@@ -3,9 +3,12 @@
 | 📄 **[개인정보처리약관](https://www.notion.so/Privacy-Policy-2a7bc3f523098014ae66c6b7b56f9048?pvs=21)** | 📘 **[이용약관](https://www.notion.so/Terms-of-Service-2a7bc3f523098019ad53e6f27fa239e0?pvs=21)** |
 |---|---|
 
-🍎 **앱스토어 출시 완료**: [바로 설치](https://apps.apple.com/kr/app/%EB%8F%88%EA%B0%80%EC%8A%A4-%EC%A7%80%EB%8F%84/id6755211452)
+🍎 **앱스토어**: [바로 설치](https://apps.apple.com/kr/app/%EB%8F%88%EA%B0%80%EC%8A%A4-%EC%A7%80%EB%8F%84/id6755211452)
 
-📱 **플레이스토어 출시 완료**: [바로 설치](https://play.google.com/store/apps/details?id=com.katsumap.app)
+📱 **플레이스토어**: [바로 설치](https://play.google.com/store/apps/details?id=com.katsumap.app)
+
+🌳 **링크트리/instagram**: [바로 가기](https://linktr.ee/katz_map?utm_source=linktree_profile_share&ltsid=d106ee6f-1a59-4d0b-a02a-6d7ca8711535)
+
 
 <br>
 
